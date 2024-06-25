@@ -1,0 +1,20 @@
+.firstClass {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.secondClass {
+    background-color: brown;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.thirdClass {
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
